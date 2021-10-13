@@ -1,0 +1,8 @@
+name: Familier
+author: Erpriex
+version: 1.0
+main: fr.erpriex.familier.Familier
+commands:
+  reloadpet:
+    description: Recharger le familier
+    permission:
